@@ -1,8 +1,9 @@
 # DevTodo – A Modern CLI Task Manager 🚀
 ```
 
-DevTodo is a lightweight, emoji-powered command-line task manager for developers and power users.
-It supports priorities, tags, filtering, and productivity stats to keep you organized inside the terminal.
+DevTodo is a lightweight, emoji-powered command-line task manager for 
+developers and power users. It supports priorities, tags, filtering, and
+productivity stats to keep you organized inside the terminal.
 ```
 
 ```markdown
@@ -28,11 +29,14 @@ It supports priorities, tags, filtering, and productivity stats to keep you orga
 git clone https://github.com/your-username/devtodo.git
 cd devtodo
 
+# Change file name 
+mv devtodo.py devtodo 
+
 # Make it executable
-chmod +x devtodo.py
+chmod +x devtodo
 
 # Move to /usr/local/bin for global usage
-sudo mv devtodo.py /usr/local/bin/devtodo
+sudo mv devtodo /usr/local/bin/
 ```
 
 ```markdown
