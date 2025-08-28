@@ -1,7 +1,6 @@
 # DevTodo – A Modern CLI Task Manager 🚀
 ```
 
-```text
 DevTodo is a lightweight, emoji-powered command-line task manager for developers and power users.
 It supports priorities, tags, filtering, and productivity stats to keep you organized inside the terminal.
 ```
